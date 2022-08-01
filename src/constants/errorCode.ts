@@ -1,0 +1,5 @@
+export const ErrorCode = {
+  EMAIL_NOT_FOUND: 1000,
+  EMAIL_OR_PASSWORD_WRONG: 1001,
+  EMAIL_IS_ALREADY_EXISTS: 1003
+} as const
